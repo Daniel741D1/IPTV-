@@ -1,1 +1,3 @@
-# IPTV-
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group=title=""
