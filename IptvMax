@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo=" png" group=title="Tv Abertas",SBT HD Int
 https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
 
-#EXTINF:0 tvg-logo=" png" group=title="CANAIS: HD",  SBT Interior
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZjb2vsDyevTORaYuJKmzS9ydJO-4lrgViQ&usqp=CAU" group=title="CANAIS: HD",  SBT Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
 
 #EXTINF:0 tvg-logo=" png" group=title="CANAIS: HD",BAND HD
