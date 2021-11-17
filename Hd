@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,SBT INTERIOR HD
+https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,RECORD TV HD 1
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,RECORD TV HD 2
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,REDE TV HD
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,REDE TV HD 2
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,TV  BRASIL HD
+https://edge-pe-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(9_aJgQy6vdBcDy4kWlbW8Q)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGVQABm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,TV GAZETA PA HD 
+ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,TV DIÁRIO HD
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUHqjfXQn83QPD95PRzReys)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc 
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,REDE FAMÍLIA HD 
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”CANAL HD”,BAND HD SP
+http://105m3u8.epg-kc.com/v3/youshi/m3_3zFNpotNh0Q0iR_480p.m3u8?session_id=17QTW6bqnoAI&app_ver=10101&auth_id=55690164_com.global.brasiltvweb&client_ip=187.1.37.16&user_id=55690164&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=89b15c75&expired=1637187688&token=5655D607EEBCF21B73611C6874C133F9&media_code=m3_3zFNpotNh0Q0iR_480p
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”ESPORTES”,ESPN BRASIL HD
+http://105m3u8.epg-kc.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=17QTW6bqnoAI&app_ver=10101&auth_id=55690164_com.global.brasiltvweb&client_ip=187.1.37.16&user_id=55690164&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=89b15c75&expired=1637187688&token=5655D607EEBCF21B73611C6874C133F9&media_code=m3_ScQBL06LuJftF_264
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”ESPORTES”,FOX SPORTS HD
+http://105m3u8.epg-kc.com/v3/youshi/m2_AkF7moyJqBpWr5L3ctZXu8D6_264.m3u8?session_id=17QTW6bqnoAI&app_ver=10101&auth_id=55690164_com.global.brasiltvweb&client_ip=187.1.37.16&user_id=55690164&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=89b15c75&expired=1637187688&token=5655D607EEBCF21B73611C6874C133F9&media_code=m2_AkF7moyJqBpWr5L3ctZXu8D6_264
+
+#EXTINF:-1 tvg-id=”” tvg-logo=”Link do logotipo-RTP1.png” group-title=”FILMES”,TNT HD
+http://105m3u8.epg-kc.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_264.m3u8?session_id=17QTW6bqnoAI&app_ver=10101&auth_id=55690164_com.global.brasiltvweb&client_ip=187.1.37.16&user_id=55690164&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=89b15c75&expired=1637187688&token=5655D607EEBCF21B73611C6874C133F9&media_code=m2_hrXYNmAD2GitKZdq5wlHUjJF_264
