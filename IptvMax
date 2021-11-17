@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1
+#EXTINF:0 tvg-logo=" png" group=title="Tv Abertas",SBT HD Int
+https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
+#EXTINF:0 tvg-logo=" png" group=title="Tv Abertas",  SBT Interior
+https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
+#EXTINF:0 tvg-logo=" png" group=title="Tv Abertas",BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
+#EXTINF:0 tvg-logo=" png" group=title="CANAIS: HD",BAND HDI
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
