@@ -4,6 +4,9 @@
 http://svrjupiter.live/HNEEQDRZ/MXZT913N/9787?tkn=1633574461
 #EXTINF:0 tvg-logo="" group-title="Canais Abertos",GLOBO
 http://cdn.whostreams.net:8081/wsedge/7zdrwfa/chunks.m3u8?nimblesessionid=12424361&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDQ6MTE6MjUgQU0maGFzaF92YWx1ZT04VVlpT1JneVk2QW4rYjRFMllwalhnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="" tvg-name=" SBT  " tvg-logo=" png  " group-title="CANAIS: HD",  SBT Interior https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" BAND  " tvg-logo=" png  " group-title="CANAIS: HD", 
+#EXTINF:0 tvg-id="" tvg-name=" SBT  " tvg-logo=" png  " group-title="CANAIS: HD",  SBT Interior https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
+#EXTINF:0 tvg-id="" tvg-name=" BAND  " tvg-logo=" png  " group-title="CANAIS: HD", 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
+
+#EXTINF:0 tvg-logo=" png" group=title="Tv Abertas",SBT HD Int
+https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w2139424618.m3u8
